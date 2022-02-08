@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Kevin Allioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallioli)](https://github.com/kallioligithub-readme-stats)
+
 
 <!---
 kallioli/kallioli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
