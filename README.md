@@ -2,8 +2,7 @@
 - 👋 Hi, I’m Kevin Allioli @kallioli
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/openstackopenstack.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/openstack.svg" />
+<img height="32" width="32" style='fill: #ED1944;' src="https://unpkg.com/simple-icons@v6/icons/openstack.svg" />
 
 
 - 
