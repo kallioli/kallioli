@@ -11,6 +11,7 @@
 
 [![Kevin Allioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallioli)](https://github.com/kallioligithub-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 kallioli/kallioli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
