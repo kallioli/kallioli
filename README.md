@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Kevin Allioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallioli)](https://github.com/kallioligithub-readme-stats)
+[![Kevin Allioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=linitio)](https://github.com/linitiogithub-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
