@@ -1,19 +1,24 @@
-### Hi everyone i'm Kevin Allioli (aka @linitio)
-- 👋 Hi, I’m Kevin Allioli @kallioli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-<img height="32" width="32" style='fill: #ED1944;' src="https://unpkg.com/simple-icons@v6/icons/openstack.svg" />
+# Hi everyone, i'm Kevin Allioli aka (linitio)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<p width="50%">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+</p>
 
 
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-[![Kevin Allioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=linitio)](https://github.com/linitiogithub-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinallioli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/linit_io) 
 
-<!---
-kallioli/kallioli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻Tech Stack
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=linitio&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=linitio&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=linitio&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=linitio&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=linitio&icon=0&color=0)](https://visitcount.itsvg.in)
