@@ -1,19 +1,23 @@
 # Hi everyone, i'm Kevin Allioli aka (@linitio)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
-  Hi, nice to meet you. Let me introduce my profile in a few lines.
+Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>I'm an IT engineer</li>
-    <li>📍Based near Geneva</li>
-    <li>🏢 I work for Infomaniak Network</li>
+    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
+    <li>📍 Based near <b>Geneva</b></li>
+    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🌱 I'm currently learning <b>OpenStack COA Certifaction</b> and <b>Python</b></li>
+    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
+    <li>📮 You can contact me directly here : kevin@linit.io
   </ul>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 </p>
 
 ## 🌐 You can find me on :
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://github.com/linitio/static-content/blob/main/img/logo/linkedin-button.png?raw=true" width="13%"></a>
-  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://github.com/linitio/static-content/blob/main/img/logo/twitter-button.png?raw=true" width="13%">
+  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://github.com/linitio/static-content/blob/main/img/logo/twitter-button.png?raw=true" width="13%"></a>
   <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="Kevin Allioli OpenInfra profile" src="https://github.com/linitio/static-content/blob/main/img/logo/openinfra-button.png?raw=true" width="13%"></a>
   <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img alt="linit.io YouTube channel" src="https://github.com/linitio/static-content/blob/main/img/logo/youtube-button.png?raw=true" width="13%"></a>
 </p>
