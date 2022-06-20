@@ -1,13 +1,16 @@
-# Hi everyone, i'm Kevin Allioli aka (linitio)
+# Hi everyone, i'm Kevin Allioli aka (@linitio)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
+  Hi, nice to meet you. Let me introduce my profile in a few lines.
+  <ul>
+    <li>I'm an IT engineer</li>
+    <li>📍Based near Geneva</li>
+    <li>🏢 I work for Infomaniak Network</li>
+  </ul>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 </p>
 
-
-
-
-## 🌐 Where you can find me :
+## 🌐 You can find me on :
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://github.com/linitio/static-content/blob/main/img/logo/linkedin-button.png?raw=true" width="13%"></a>
   <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://github.com/linitio/static-content/blob/main/img/logo/twitter-button.png?raw=true" width="13%">
