@@ -1,5 +1,5 @@
 # Hi everyone, i'm Kevin Allioli aka (@linitio)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
@@ -10,8 +10,9 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
     <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
   </ul>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Passionate IT engineer and trainer, I am always looking for new challenges.
+<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+If you want to discuss about it, feel free to contact me.
 </p>
 
 ## 🌐 You can find me on :
