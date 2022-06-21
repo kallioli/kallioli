@@ -24,24 +24,39 @@ If you want to discuss about it, feel free to contact me.
 </p>
 
 ## 🖥️ My tech stacks :
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Items</th>
-      <th scope="col">Expenditure</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Donuts</th>
-      <td>3,000</td>
-    </tr>
-    <tr>
-      <th scope="row">Stationery</th>
-      <td>18,000</td>
-    </tr>
-  </tbody>
-</table>
+<p align="right">
+  <h3><i>Hosting providers:</i></h3>
+  <ul>
+    OpenStack
+    Infomaniak Puclic Cloud
+    Amazon Web Services
+    Netlify
+  </ul>
+</p>
+<p>
+  <h3><i>Languages:</i></h3>
+  OpenStack
+  Infomaniak Puclic Cloud
+  Amazon Web Services
+  Netlify
+</p>
+<p>
+  <h3><i>Operating Systems:</i></h3>
+  OpenStack
+  Infomaniak Puclic Cloud
+  Amazon Web Services
+  Netlify
+</p>
+<p>
+  <h3><i>Other tools:</i></h3>
+  OpenStack
+  Infomaniak Puclic Cloud
+  Amazon Web Services
+  Netlify
+</p>
+
+
+
 
 
 
