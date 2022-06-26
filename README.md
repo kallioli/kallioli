@@ -27,7 +27,7 @@ If you want to discuss about it, feel free to contact me.
 <p align="right">
   <h3><i>Hosting providers:</i></h3>
   <ul>
-    OpenStack
+    <img align="middle" src="https://github.com/linitio/static-content/blob/main/img/logo/logo-social.png?raw=true" width="20px"> OpenStack
     Infomaniak Puclic Cloud
     Amazon Web Services
     Netlify
