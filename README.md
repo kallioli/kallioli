@@ -25,152 +25,164 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🖥️ My tech stacks :
 
-<table>
+<p align="right">
+  <h3><i>Hosting providers:</i></h3>
+  <table>
   <tr border: none;>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>AWS
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ipc-logo.png?raw=true" width="48" height="48" alt="Infomaniak Public Cloud" />
+      </a>
+      <br>IPC
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/netlify-logo.png?raw=true" width="48" height="48" alt="Netlify" />
       </a>
-      <br>Python
+      <br>Netlify
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
       </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+      <br>OpenStack
     </td>
   </tr>
 </table>
-
-
-
-<p align="right">
-  <h3><i>Hosting providers:</i></h3>
-  <ul>
-    <a href=""><img valign="middle" src="https://github.com/linitio/static-content/blob/main/img/logo/logo-social.png?raw=true" width="40px"> OpenStack</a>
-    Infomaniak Puclic Cloud<br>
-    Amazon Web Services<br>
-    Netlify<br>
-  </ul>
-</p>
 <p>
   <h3><i>Languages:</i></h3>
-  OpenStack
-  Infomaniak Puclic Cloud
-  Amazon Web Services
-  Netlify
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/bash-logo.png?raw=true" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS 3" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/markdown-logo.png?raw=true" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/python-logo.png?raw=true" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/yaml-logo.png?raw=true" width="48" height="48" alt="YAML" />
+      </a>
+      <br>YAML
+    </td>
+  </tr>
+</table>
 </p>
 <p>
   <h3><i>Operating Systems:</i></h3>
-  OpenStack
-  Infomaniak Puclic Cloud
-  Amazon Web Services
-  Netlify
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
+      </a>
+      <br>macOS
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/redhat-logo.png?raw=true" width="48" height="48" alt="Red Hat" />
+      </a>
+      <br>Red Hat
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ubuntu-logo.png?raw=true" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+  </tr>
+</table>
 </p>
 <p>
   <h3><i>Other tools:</i></h3>
-  OpenStack
-  Infomaniak Puclic Cloud
-  Amazon Web Services
-  Netlify
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>Action
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ansible-logo.png?raw=true" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="Windows" />
+      </a>
+      <br>CI/CD
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/cloud-init-logo.png?raw=true" width="48" height="48" alt="Cloud-Init" />
+      </a>
+      <br>Cloud-Init
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafna-logo.png?raw=true" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+  </tr>
+</table>
 </p>
 
 
