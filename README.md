@@ -251,36 +251,36 @@ If you want to discuss about it, feel free to contact me.
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>📦 openstack-alpine-images</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-alpine-image?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-alpine-image?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-alpine-image?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/linitio/docker-apps-collection"><b>🐳 docker-apps-collection</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/docker-apps-collection?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/docker-apps-collection?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/yaml-92%25-blue?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/linitio/aws-resume"><b>👨🏻‍💻 aws-resume</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/aws-resume?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/aws-resume?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/aws-resume?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/linitio/linitio"><b>🤓 linitio</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/linitioi?style=flat-square"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/linitio?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/linitio?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-50%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
@@ -291,14 +291,12 @@ If you want to discuss about it, feel free to contact me.
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>OS:</b> macOS Monterey</li>
+	    <li><b>Laptop: </b> MacBook Pro M1 13" & MacBook Pro M1 Pro 16"</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	    <li><b>Code Editor:</b> VSCode</li>
+	    <li><b>To Stay Updated:</b> linit.io, Medium, Linkedin, Twitter and Youtube.</li>
 	</ul>	
 </details>
 
