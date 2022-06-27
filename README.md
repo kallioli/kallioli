@@ -5,8 +5,8 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
     <li>📍 Based near <b>Geneva</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b> (personal work)</li>
-    <li>🌱 I'm currently learning <b>OpenStack COA Certification</b> and <b>Python</b></li>
+    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
     <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
     <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
   </ul>
