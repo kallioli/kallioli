@@ -141,7 +141,7 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub" />
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub Action" />
       </a>
       <br>Action
     </td>	  
@@ -153,7 +153,13 @@ If you want to discuss about it, feel free to contact me.
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="Windows" />
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ceph-logo.png?raw=true" width="48" height="48" alt="Ceph" />
+      </a>
+      <br>Ceph
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
       </a>
       <br>CI/CD
     </td>
@@ -169,11 +175,25 @@ If you want to discuss about it, feel free to contact me.
       </a>
       <br>Docker
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafna-logo.png?raw=true" width="48" height="48" alt="Grafana" />
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/influxdb-logo.png?raw=true" width="48" height="48" alt="InfluxDB" />
+      </a>
+      <br>InfluxDB
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -181,20 +201,27 @@ If you want to discuss about it, feel free to contact me.
       </a>
       <br>Terraform
     </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/vault-logo.png?raw=true" width="48" height="48" alt="Vault" />
+      </a>
+      <br>Vault
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>VS Code
+    </td>
   </tr>
 </table>
 </p>
-
-
-
-
-
 
 ## 🚧 Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
+	
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linitio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linitio&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
