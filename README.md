@@ -1,5 +1,5 @@
 # Hi everyone, i'm Kevin Allioli aka (@linitio)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
@@ -296,7 +296,7 @@ If you want to discuss about it, feel free to contact me.
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b> linit.io, Medium, Linkedin, Twitter and Youtube.</li>
+	    <li><b>To Stay Updated:</b> linit.io, Linkedin, Twitter and Youtube.</li>
 	</ul>	
 </details>
 
