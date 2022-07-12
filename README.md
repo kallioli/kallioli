@@ -1,6 +1,6 @@
 # Hi everyone, i'm Kevin Allioli aka (@linitio)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
-<p width="45%">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/linitio/linitio/main/img/code.gif" width="53%" />
+<p>
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
@@ -17,10 +17,10 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://github.com/linitio/static-content/blob/main/img/logo/linkedin-button.png?raw=true" width="13%"></a>
-  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://github.com/linitio/static-content/blob/main/img/logo/twitter-button.png?raw=true" width="13%"></a>
-  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="Kevin Allioli OpenInfra profile" src="https://github.com/linitio/static-content/blob/main/img/logo/openinfra-button.png?raw=true" width="13%"></a>
-  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img alt="linit.io YouTube channel" src="https://github.com/linitio/static-content/blob/main/img/logo/youtube-button.png?raw=true" width="13%"></a>
+  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://static.linit.io/img/button/linkedin-button.png" width="13%"></a>
+  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://static.linit.io/img/button/twitter-button.png" width="13%"></a>
+  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="Kevin Allioli OpenInfra profile" src="https://static.linit.io/img/button/openinfra-button.png" width="13%"></a>
+  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img alt="linit.io YouTube channel" src="https://static.linit.io/img/button/youtube-button.png" width="13%"></a>
 </p>
 
 ## 🖥️ My tech stacks :
