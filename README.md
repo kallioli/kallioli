@@ -31,13 +31,13 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
+        <img src="https://static.linit.io/img/logo/aws-logo.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ipc-logo.png?raw=true" width="48" height="48" alt="Infomaniak Public Cloud" />
+        <img src="https://static.linit.io/img/logo/ipc-logo.png" width="48" height="48" alt="Infomaniak Public Cloud" />
       </a>
       <br>IPC
     </td>
@@ -49,7 +49,7 @@ If you want to discuss about it, feel free to contact me.
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
+        <img src="https://static.linit.io/img/logo/openstack-logo.png" width="48" height="48" alt="OpenStack" />
       </a>
       <br>OpenStack
     </td>
@@ -61,37 +61,37 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/bash-logo.png?raw=true" width="48" height="48" alt="Bash" />
+        <img src="https://static.linit.io/img/logo/bash-logo.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS 3" />
+        <img src="https://static.linit.io/img/logo/css3-logo.png" width="48" height="48" alt="CSS 3" />
       </a>
       <br>CSS 3
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML 5" />
+        <img src="https://static.linit.io/img/logo/html5-logo.png" width="48" height="48" alt="HTML 5" />
       </a>
       <br>HTML 5
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/markdown-logo.png?raw=true" width="48" height="48" alt="Markdown" />
+        <img src="https://static.linit.io/img/logo/markdown-logo.png" width="48" height="48" alt="Markdown" />
       </a>
       <br>Markdown
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/python-logo.png?raw=true" width="48" height="48" alt="Python" />
+        <img src="https://static.linit.io/img/logo/python-logo.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/yaml-logo.png?raw=true" width="48" height="48" alt="YAML" />
+        <img src="https://static.linit.io/img/logo/yaml-logo.png" width="48" height="48" alt="YAML" />
       </a>
       <br>YAML
     </td>
