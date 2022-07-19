@@ -104,31 +104,31 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
+        <img src="https://static.linit.io/img/logo/debian-logo.png" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
+        <img src="https://static.linit.io/img/logo/apple-logo.png" width="48" height="48" alt="macOS" />
       </a>
       <br>macOS
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/redhat-logo.png?raw=true" width="48" height="48" alt="Red Hat" />
+        <img src="https://static.linit.io/img/logo/redhat-logo.png" width="48" height="48" alt="Red Hat" />
       </a>
       <br>Red Hat
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ubuntu-logo.png?raw=true" width="48" height="48" alt="Ubuntu" />
+        <img src="https://static.linit.io/img/logo/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
+        <img src="https://static.linit.io/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
