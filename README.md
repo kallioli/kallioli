@@ -43,7 +43,7 @@ If you want to discuss about it, feel free to contact me.
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/netlify-logo.png?raw=true" width="48" height="48" alt="Netlify" />
+        <img src="https://static.linit.io/img/logo/netlify-logo.png" width="48" height="48" alt="Netlify" />
       </a>
       <br>Netlify
     </td>
@@ -141,37 +141,37 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub Action" />
+        <img src="https://static.linit.io/img/logo/github-logo.png" width="48" height="48" alt="GitHub Action" />
       </a>
       <br>Action
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ansible-logo.png?raw=true" width="48" height="48" alt="Ansible" />
+        <img src="https://static.linit.io/img/logo/ansible-logo.png" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ceph-logo.png?raw=true" width="48" height="48" alt="Ceph" />
+        <img src="https://static.linit.io/img/logo/ceph-logo.png" width="48" height="48" alt="Ceph" />
       </a>
       <br>Ceph
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
+        <img src="https://static.linit.io/img/logo/gitlab-logo.png" width="48" height="48" alt="GitLab CI/CD" />
       </a>
       <br>CI/CD
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/cloud-init-logo.png?raw=true" width="48" height="48" alt="Cloud-Init" />
+        <img src="https://static.linit.io/img/logo/cloud-init-logo.png" width="48" height="48" alt="Cloud-Init" />
       </a>
       <br>Cloud-Init
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
+        <img src="https://static.linit.io/img/logo/docker-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -179,37 +179,37 @@ If you want to discuss about it, feel free to contact me.
   <tr>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
+        <img src="https://static.linit.io/img/logo/git-logo.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
+        <img src="https://static.linit.io/img/logo/grafana-logo.png" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/influxdb-logo.png?raw=true" width="48" height="48" alt="InfluxDB" />
+        <img src="https://static.linit.io/img/logo/influxdb-logo.png" width="48" height="48" alt="InfluxDB" />
       </a>
       <br>InfluxDB
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
+        <img src="https://static.linit.io/img/logo/terraform-logo.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/vault-logo.png?raw=true" width="48" height="48" alt="Vault" />
+        <img src="https://static.linit.io/img/logo/vault-logo.png" width="48" height="48" alt="Vault" />
       </a>
       <br>Vault
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
+        <img src="https://static.linit.io/img/logo/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS Code
     </td>
