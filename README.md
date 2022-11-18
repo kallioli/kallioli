@@ -291,8 +291,8 @@ If you want to discuss about it, feel free to contact me.
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Monterey</li>
-	    <li><b>Laptop: </b> MacBook Pro M1 13" & MacBook Pro M1 Pro 16"</li>
+  	    <li><b>OS:</b> macOS Ventura</li>
+	    <li><b>Laptop: </b> MacBook Pro 14" & MacBook Pro 16"</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode</li>
