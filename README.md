@@ -260,11 +260,11 @@ If you want to discuss about it, feel free to contact me.
       </tr>
       <tr>
 	<td><a href="https://github.com/linitio/openstack-cloud-rescue-image"><b>📦 openstack-cloud-rescue-image</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-alpine-image?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-alpine-image?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-alpine-image?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-cloud-rescue-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-cloud-rescue-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-cloud-rescue-image?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-cloud-rescue-image?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-cloud-rescue-image?style=flat-square"/></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/linitio/docker-apps-collection"><b>🐳 docker-apps-collection</b></a></td>
