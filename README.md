@@ -1,5 +1,5 @@
-# Hi everyone, i'm Kevin Allioli aka (@linitio)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/linitio/linitio/main/img/code.gif" width="53%" />
+# Hi everyone, i'm Kevin Allioli
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallioli/linitio/main/img/code.gif" width="53%" />
 <p>
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
