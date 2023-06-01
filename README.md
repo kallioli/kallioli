@@ -307,7 +307,7 @@ If you want to discuss about it, feel free to contact me.
   	<ul>
   	    <li><b>OS:</b> macOS Ventura</li>
 	    <li><b>Laptop: </b> MacBook Pro 14" & MacBook Pro 16"</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Brave Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b> linit.io, Linkedin, Twitter and Youtube.</li>
