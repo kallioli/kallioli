@@ -1,95 +1,323 @@
-<!-- Banner personnalisé (remplace l’URL si tu veux un autre style) -->
-<img src="https://static.linit.io/img/banners/banner-linitio.png" alt="banner" width="100%" />
-
-# 👋 Hi, I'm Kevin Allioli
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallioli/linitio/main/img/code.gif" width="350" />
-
-**Cloud Architect · OpenStack Expert · IT Trainer**
-
-- 💻 **Infomaniak Network** & **LinIT**
-- 📍 Geneva area · France | Switzerland
-- 🎓 Learning: Python & COA Certification
-- ☁️ Focus: OpenStack, Docker, AWS & Cloud Solutions
-- 💬 Questions? Drop me a line: [kevin@linit.io](mailto:kevin@linit.io)
-
-🚀 _Building the cloud, sharing the knowledge!_
-
----
-
-## 🌐 Find me on
-
-<p align="center" style="display:flex;gap:15px;">
-  <a href="mailto:kevin@linit.io"><img src="https://img.shields.io/badge/Email-kevin@linit.io-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kevinallioli/"><img src="https://img.shields.io/badge/LinkedIn-Kevin%20Allioli-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/linit_io"><img src="https://img.shields.io/badge/Twitter-@linit_io-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli"><img src="https://img.shields.io/badge/OpenInfra-EE0000?style=for-the-badge&logo=openstack&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img src="https://img.shields.io/badge/Youtube-Linit.io-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
----
-
-## 🧰 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-EE0000?style=for-the-badge&logo=openstack&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-📚 _Currently leveling up in:_ **Python** & **COA Certification**
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kallioli&show_icons=true&theme=github_dark&count_private=true" height="170">
-  <img src="https://streak-stats.demolab.com?user=kallioli&theme=dark&hide_border=true" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kallioli&theme=onedark&no-frame=true&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kallioli&theme=github-compact" width="98%"/>
-</p>
-
----
-
-## 📣 Featured Projects
-
-| Project | Stars | Forks | Language | Description |
-|---------|:-----:|:-----:|:--------:|:------------|
-| [**docker-apps-collection**](https://github.com/linitio/docker-apps-collection) | ![Stars](https://img.shields.io/github/stars/linitio/docker-apps-collection?style=flat-square) | ![Forks](https://img.shields.io/github/forks/linitio/docker-apps-collection?style=flat-square) | ![Language](https://img.shields.io/badge/yaml-92%25-blue?style=flat-square) | 🐳 _Collection of Dockerized Applications for training & deployment_|
-| [**aws-resume**](https://github.com/linitio/aws-resume) | ![Stars](https://img.shields.io/github/stars/linitio/aws-resume?style=flat-square) | ![Forks](https://img.shields.io/github/forks/linitio/aws-resume?style=flat-square) | ![Language](https://img.shields.io/github/languages/top/linitio/aws-resume?style=flat-square) | 💼 _AWS Resume pipeline_|
-| [**linitio**](https://github.com/linitio/linitio) | ![Stars](https://img.shields.io/github/stars/linitio/linitio?style=flat-square) | ![Forks](https://img.shields.io/github/forks/linitio/linitio?style=flat-square) | ![Language](https://img.shields.io/badge/markdown-50%25-blue?style=flat-square) | 📚 _Open Trainings & learning ressources on DevOps & Cloud_ |
-
----
-
-## ⚙️ My Setup
-
-<details>
-  <summary>What I use every day (click to open)</summary>
+# Hi everyone, i'm Kevin Allioli
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallioli/linitio/main/img/code.gif" width="53%" />
+<p>
+Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li><b>OS:</b> macOS Ventura</li>
-    <li><b>Laptop:</b> MacBook Pro 14" & 16"</li>
-    <li><b>Browser:</b> Brave</li>
-    <li><b>Terminal:</b> ZSH (Oh My Zsh + PowerLevel10k)</li>
-    <li><b>Editor:</b> VSCode</li>
-    <li><b>To stay updated:</b> linit.io, LinkedIn, Twitter, YouTube</li>
+    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
+    <li>📍 Based near <b>Geneva</b></li>
+    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
+    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
+    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
   </ul>
+Passionate IT engineer and trainer, I am always looking for new challenges.
+<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+If you want to discuss about it, feel free to contact me.
+</p>
+
+## 🌐 You can find me on :
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://static.linit.io/img/button/linkedin-button.png" width="13%"></a>
+  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://static.linit.io/img/button/twitter-button.png" width="13%"></a>
+  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="Kevin Allioli OpenInfra profile" src="https://static.linit.io/img/button/openinfra-button.png" width="13%"></a>
+  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img alt="linit.io YouTube channel" src="https://static.linit.io/img/button/youtube-button.png" width="13%"></a>
+</p>
+
+## 🖥️ My tech stacks :
+
+<p align="right">
+  <h3><i>Hosting providers:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/aws-logo.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/ipc-logo.png" width="48" height="48" alt="Infomaniak Public Cloud" />
+      </a>
+      <br>IPC
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/netlify-logo.png" width="48" height="48" alt="Netlify" />
+      </a>
+      <br>Netlify
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/openstack-logo.png" width="48" height="48" alt="OpenStack" />
+      </a>
+      <br>OpenStack
+    </td>
+  </tr>
+</table>
+<p>
+  <h3><i>Languages:</i></h3>
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/bash-logo.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/css3-logo.png" width="48" height="48" alt="CSS 3" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/html5-logo.png" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/markdown-logo.png" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/python-logo.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/yaml-logo.png" width="48" height="48" alt="YAML" />
+      </a>
+      <br>YAML
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Operating Systems:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/debian-logo.png" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/apple-logo.png" width="48" height="48" alt="macOS" />
+      </a>
+      <br>macOS
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/redhat-logo.png" width="48" height="48" alt="Red Hat" />
+      </a>
+      <br>Red Hat
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/alpine-logo.png?raw=true" width="48" height="48" alt="Alpine" />
+      </a>
+      <br>Alpine
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Other tools:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/github-logo.png" width="48" height="48" alt="GitHub Action" />
+      </a>
+      <br>Action
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/ansible-logo.png" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/ceph-logo.png" width="48" height="48" alt="Ceph" />
+      </a>
+      <br>Ceph
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/gitlab-logo.png" width="48" height="48" alt="GitLab CI/CD" />
+      </a>
+      <br>CI/CD
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/cloud-init-logo.png" width="48" height="48" alt="Cloud-Init" />
+      </a>
+      <br>Cloud-Init
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/docker-logo.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/git-logo.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/grafana-logo.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/influxdb-logo.png" width="48" height="48" alt="InfluxDB" />
+      </a>
+      <br>InfluxDB
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/terraform-logo.png" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/vault-logo.png" width="48" height="48" alt="Vault" />
+      </a>
+      <br>Vault
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://static.linit.io/img/logo/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+</p>
+
+## 🚧 Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+	
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallioli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallioli&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
----
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kallioli&label=PROFILE+VIEWS" alt="profile views"/>  
-</p>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kallioli&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	<td><a href="https://github.com/linitio/openstack-alpine-image"><b>📦 openstack-alpine-image</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-alpine-image?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-alpine-image?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-alpine-image?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/linitio/openstack-cloud-rescue-image"><b>📦 openstack-cloud-rescue-image</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-cloud-rescue-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-cloud-rescue-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-cloud-rescue-image?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-cloud-rescue-image?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-cloud-rescue-image?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/linitio/docker-apps-collection"><b>🐳 docker-apps-collection</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/docker-apps-collection?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/docker-apps-collection?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/yaml-92%25-blue?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/linitio/aws-resume"><b>👨🏻‍💻 aws-resume</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/aws-resume?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/aws-resume?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/aws-resume?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	<td><a href="https://github.com/linitio/linitio"><b>🤓 linitio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/linitio?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/linitio?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-50%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> macOS Ventura</li>
+	    <li><b>Laptop: </b> MacBook Pro 14" & MacBook Pro 16"</li>
+  	    <li><b>Browser: </b> Brave Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode</li>
+	    <li><b>To Stay Updated:</b> linit.io, Linkedin, Twitter and Youtube.</li>
+	</ul>	
+</details>
+
+#
 
 <div align="center">
-  ⭐️ _If you like my work, consider starring some repositories!_ ⭐️
+
+### Show some ❤️ by starring some of the repositories!
+
 </div>
