@@ -1,6 +1,9 @@
 # Hi everyone, I'm Kevin Allioli
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=System+Administrator;Cloud+Architect;OpenStack+Expert;DevOps+Trainer&center=true&width=500&height=45">
+</p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallioli/linitio/main/img/code.gif" width="53%" />
-<p>Hi, nice to meet you. Let me introduce my profile in a few lines.</p>
+
 <ul>
   <li>👨‍🔧 I'm an <b>IT engineer</b> and <b>System Administrator</b></li>
   <li>📍 Based near <b>Geneva</b></li>
@@ -34,205 +37,28 @@
 ## 🖥️ My tech stacks :
 
 <h3><i>Hosting providers:</i></h3>
-  <table style="border-collapse: separate; border-spacing: 12px;">
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/aws-logo.png" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ipc-logo.png" width="48" height="48" alt="Infomaniak Public Cloud" />
-      </a>
-      <br>IPC
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/netlify-logo.png" width="48" height="48" alt="Netlify" />
-      </a>
-      <br>Netlify
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/openstack-logo.png" width="48" height="48" alt="OpenStack" />
-      </a>
-      <br>OpenStack
-    </td>
-  </tr>
-</table>
-<h3><i>Languages:</i></h3>
-  <table style="border-collapse: separate; border-spacing: 12px;">
-  <tr border: none;>
-   <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/bash-logo.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/css3-logo.png" width="48" height="48" alt="CSS 3" />
-      </a>
-      <br>CSS 3
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/html5-logo.png" width="48" height="48" alt="HTML 5" />
-      </a>
-      <br>HTML 5
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/markdown-logo.png" width="48" height="48" alt="Markdown" />
-      </a>
-      <br>Markdown
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/python-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/yaml-logo.png" width="48" height="48" alt="YAML" />
-      </a>
-      <br>YAML
-    </td>
-  </tr>
-</table>
-</p>
-<h3><i>Operating Systems:</i></h3>
-  <table style="border-collapse: separate; border-spacing: 12px;">
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/debian-logo.png" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/apple-logo.png" width="48" height="48" alt="macOS" />
-      </a>
-      <br>macOS
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/redhat-logo.png" width="48" height="48" alt="Red Hat" />
-      </a>
-      <br>Red Hat
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/alpine-logo.png?raw=true" width="48" height="48" alt="Alpine" />
-      </a>
-      <br>Alpine
-    </td>
-  </tr>
-</table>
-</p>
-<h3><i>Other tools:</i></h3>
-  <table style="border-collapse: separate; border-spacing: 12px;">
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/github-logo.png" width="48" height="48" alt="GitHub Action" />
-      </a>
-      <br>Action
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ansible-logo.png" width="48" height="48" alt="Ansible" />
-      </a>
-      <br>Ansible
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ceph-logo.png" width="48" height="48" alt="Ceph" />
-      </a>
-      <br>Ceph
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/gitlab-logo.png" width="48" height="48" alt="GitLab CI/CD" />
-      </a>
-      <br>CI/CD
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/cloud-init-logo.png" width="48" height="48" alt="Cloud-Init" />
-      </a>
-      <br>Cloud-Init
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/docker-logo.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/git-logo.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/grafana-logo.png" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/influxdb-logo.png" width="48" height="48" alt="InfluxDB" />
-      </a>
-      <br>InfluxDB
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/terraform-logo.png" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/vault-logo.png" width="48" height="48" alt="Vault" />
-      </a>
-      <br>Vault
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
-      </a>
-      <br>VS Code
-    </td>
-  </tr>
-</table>
-</p>
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Infomaniak](https://img.shields.io/badge/infomaniak-%230098FF?style=for-the-badge&logo=infomaniak&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
+
+<h3><i>Languages:</i></h3>
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+<h3><i>Operating Systems:</i></h3>
+
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<h3><i>Other tools:</i></h3>
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ## 🔭 Currently Working On
 
-- 🐍 Developping Python skills
-- 📦 Automating Docker app collections  
-- ☁️ Working on [openimages.cloud](https://openimages.cloud)
+| Projects          | Level     |
+|------------------|-----------|
+| 🐍 Improving Python | ██         25% |
+| ☁️ [openimages.cloud](https://openimages.cloud)| █████    50%  |
+
 
 ## 🚧 Projects and Dev Stuffs:
 
