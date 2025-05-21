@@ -1,19 +1,27 @@
-# Hi everyone, i'm Kevin Allioli
+# Hi everyone, I'm Kevin Allioli
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallioli/linitio/main/img/code.gif" width="53%" />
+<p>Hi, nice to meet you. Let me introduce my profile in a few lines.</p>
+<ul>
+  <li>👨‍🔧 I'm an <b>IT engineer</b> and <b>System Administrator</b></li>
+  <li>📍 Based near <b>Geneva</b></li>
+  <li>🏢 Working at <b>Infomaniak Network</b> and <b>Net Architect</b></li>
+  <li>☁️ Specialist in <b>Cloud Architecture</b> (Public & Private)</li>
+  <li>📦 Experienced with <b>OpenStack</b>, <b>Docker</b> & <b>Containerization</b></li>
+  <li>📮 Contact me at: <a href="mailto:kevin@netarch.cloud"><b>kevin@netarch.cloud</b></a></li>
+</ul>
 <p>
-Hi, nice to meet you. Let me introduce my profile in a few lines.
-  <ul>
-    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Based near <b>Geneva</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
-    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
-    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
-    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
-  </ul>
-Passionate IT engineer and trainer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
-If you want to discuss about it, feel free to contact me.
+  As a passionate system administrator and trainer, I specialize in building scalable cloud infrastructures, 
+  primarily using OpenStack and container-based environments with Docker. 
+  I also focus on designing robust network architectures and deploying production-grade services 
+  on platforms such as Infomaniak Public Cloud and AWS.
 </p>
+
+## 📌 About Me
+
+- 🧠 10+ years in Linux & Cloud
+- 📡 Architecting networks at scale
+- 🔧 Building OpenStack clusters
+- 🎓 Training & mentoring DevOps engineers
 
 ## 🌐 You can find me on :
 <p align="center">
@@ -25,9 +33,8 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🖥️ My tech stacks :
 
-<p align="right">
-  <h3><i>Hosting providers:</i></h3>
-  <table>
+<h3><i>Hosting providers:</i></h3>
+  <table style="border-collapse: separate; border-spacing: 12px;">
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -55,9 +62,8 @@ If you want to discuss about it, feel free to contact me.
     </td>
   </tr>
 </table>
-<p>
-  <h3><i>Languages:</i></h3>
-  <table>
+<h3><i>Languages:</i></h3>
+  <table style="border-collapse: separate; border-spacing: 12px;">
   <tr border: none;>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -98,9 +104,8 @@ If you want to discuss about it, feel free to contact me.
   </tr>
 </table>
 </p>
-<p>
-  <h3><i>Operating Systems:</i></h3>
-  <table>
+<h3><i>Operating Systems:</i></h3>
+  <table style="border-collapse: separate; border-spacing: 12px;">
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -141,9 +146,8 @@ If you want to discuss about it, feel free to contact me.
   </tr>
 </table>
 </p>
-<p>
-  <h3><i>Other tools:</i></h3>
-  <table>
+<h3><i>Other tools:</i></h3>
+  <table style="border-collapse: separate; border-spacing: 12px;">
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -223,6 +227,13 @@ If you want to discuss about it, feel free to contact me.
 </table>
 </p>
 
+
+## 🔭 Currently Working On
+
+- 🐍 Developping Python skills
+- 📦 Automating Docker app collections  
+- ☁️ Working on [openimages.cloud](https://openimages.cloud)
+
 ## 🚧 Projects and Dev Stuffs:
 
 <details>	
@@ -233,18 +244,11 @@ If you want to discuss about it, feel free to contact me.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallioli&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kallioli&hide_border=true" />
-</details>
-
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
-  <table>
+  <table style="border-collapse: separate; border-spacing: 12px;">
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
@@ -305,13 +309,9 @@ If you want to discuss about it, feel free to contact me.
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Ventura</li>
-	    <li><b>Laptop: </b> MacBook Pro 14" & MacBook Pro 16"</li>
-  	    <li><b>Browser: </b> Brave Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b> linit.io, Linkedin, Twitter and Youtube.</li>
-	</ul>	
+  	    <li><b>Workstation:</b> MacBook Pro 14" (macOS), ZSH (Oh My Zsh + PowerLevel10k), Cursor IDE</li>
+  	    <li><b>Browser:</b>Zen Browser</li>
+	</ul>
 </details>
 
 #
