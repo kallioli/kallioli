@@ -1,0 +1,4 @@
+# Local-only tooling / agent configuration — never commit
+CLAUDE.md
+.claude/
+.claude.json
