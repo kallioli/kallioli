@@ -9,7 +9,7 @@
 **IT engineer & Cloud Architect** — 10+ years building Linux infrastructure at scale.
 
 - 📍 Geneva area, Switzerland
-- 🏢 [Cheops Technology Switzerland](https://cheops-technology.ch) · Stackops[StackOps](https://stackops.ch)
+- 🏢 [Cheops Technology Switzerland](https://cheops-technology.ch) · [StackOps](https://stackops.ch)
 - ☁️ Designing public & private clouds on **OpenStack**
 - 📦 Containers with **Podman / OCI**, automation with **Ansible & Terraform**
 - 🎓 Training & mentoring DevOps engineers
