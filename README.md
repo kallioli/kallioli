@@ -31,10 +31,9 @@ I help teams design and operate scalable cloud platforms — from bare-metal Ope
 ## 🌐 Find me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="LinkedIn" src="https://static.linit.io/img/button/linkedin-button.png" width="13%"></a>
-  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="OpenInfra" src="https://static.linit.io/img/button/openinfra-button.png" width="13%"></a>
-  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ" target="_blank"><img alt="YouTube" src="https://static.linit.io/img/button/youtube-button.png" width="13%"></a>
-  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="Twitter" src="https://static.linit.io/img/button/twitter-button.png" width="13%"></a>
+  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="LinkedIn" src="img/button/linkedin-button.png" width="13%"></a>
+  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="OpenInfra" src="img/button/openinfra-button.png" width="13%"></a>
+  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ" target="_blank"><img alt="YouTube" src="img/button/youtube-button.png" width="13%"></a>
 </p>
 
 ---
